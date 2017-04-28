@@ -5,13 +5,13 @@
 
 ## Steps for completion
 1. Ingest data into a table gathered from Binding Pattern Cards (BPCs)
-  1. ID number
-  2. Title
-  3. Call Number 
-  4. Binding Pattern
-  5. Machine Sew Through Fold (MSTF)
-  6. Color
-  7. Type 
+  * ID number
+  * Title
+  * Call Number 
+  * Binding Pattern
+  * Machine Sew Through Fold (MSTF)
+  * Color
+  * Type 
 2. Create a single table of that data through the SQLite module in Python
 3. Write queries to manipulate and parse out information from the table data
 4. Output csv files from the queries
