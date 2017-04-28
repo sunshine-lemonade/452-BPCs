@@ -9,6 +9,10 @@
     5. Type
     6. Machine Sew Thru Fold
 
-![bpcs](/media/example_BPCs.png)
+![bpcs](/media/example_BPCs.jpg)
+
+## Tip #1
+
+![format](/media/format_output.png)
 
 ### My first table attempt 
