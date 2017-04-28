@@ -1,7 +1,7 @@
 # 452-BPCs
 **A hub for the creation and growth of my final project for LIS 452**
 
-![dance](/media/beemo-dancing.gif)
+![dance](/media/beemo-dance.gif)
 
 ## Steps for completion
 1. Ingest data into a table gathered from Binding Pattern Cards (BPCs)
