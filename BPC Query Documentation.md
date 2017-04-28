@@ -1,7 +1,8 @@
 # Step 1
 Create a database
-
+```
 ![database](/media/database_creation.png)
+```
 >[source](https://www.tutorialspoint.com/sqlite/sqlite_create_database.htm)
 
 # Step 2
