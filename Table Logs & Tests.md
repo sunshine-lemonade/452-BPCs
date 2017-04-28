@@ -13,6 +13,8 @@
 
 ## Tip #1
 
-![format](/media/format_output.png)
+> ![format](/media/format_output.png)
+
+[source](https://www.tutorialspoint.com/sqlite/sqlite_commands.htm)
 
 ### My first table attempt 
