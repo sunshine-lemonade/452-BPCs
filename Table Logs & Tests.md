@@ -19,7 +19,7 @@
 
 ### My first table attempt 
 - following steps from the tutorial returned the dreaded *command not found* 
-- after searching [stack overflow](http://stackoverflow.com/questions/2771001/create-sqlite3-database-at-prompt)I tried with success an alternate method of creation
+- after searching [stack overflow](http://stackoverflow.com/questions/2771001/create-sqlite3-database-at-prompt), I tried with success an alternate method of creation
 ```
 .open BPCTable.db
 ```
