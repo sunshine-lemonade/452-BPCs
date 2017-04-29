@@ -24,3 +24,11 @@
 .open BPCTable.db
 ```
 
+- below is my first write up of my table creation query. i find color coding helpful to make sure all parts are included
+> ![test_table](/media/test_table.jpeg)
+
+- unfortunatley it was not sucessful
+> ![error](/media/table_creation_error.png)
+
+- even though my test was unsuccessful, i went ahead and created an example of how I'd create my actual BPC table 
+> ![BPC_table_ex](/media/practice_BPC_table.jpeg)
