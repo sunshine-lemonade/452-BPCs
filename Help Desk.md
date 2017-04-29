@@ -2,7 +2,7 @@
 - I'll post questions/concerns and leave space for you to reply
 
 ### 4/28 Questions/Concerns
-1. Table Creation
+1. Table Creation Syntax Error
   - **Reply:** 
   
 2. How to apply a theme
